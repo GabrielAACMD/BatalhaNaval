@@ -1,0 +1,9 @@
+Interações
+
+
+Jogador
+- Nome : String
+
+Tabuleiro
+- Absissas : array Int
+- Ordenadas: array Int
